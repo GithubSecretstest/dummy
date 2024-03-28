@@ -1,17 +1,18 @@
+
 # Dummy credentials and details
-basic_auth_username = "dummy_basic_auth_user"
-basic_auth_password = "dummy_basic_auth_password"
+basic_auth_username = "motion"
+basic_auth_password = "jenny"
 
-bearer_token = "dummy_bearer_token"
+bearer_token = "MyJjMTlmNTgtOTkxNS00Yjg0LWFmZGMtNDNkNGE5NGVjYTY2"
 
-mongodb_username = "dummy_mongodb_user"
-mongodb_password = "dummy_mongodb_password"
+mongodb_username = "motion"
+mongodb_password = "jenny"
 mongodb_host = "dummy_mongodb_host"
 mongodb_port = 27017
 mongodb_database = "dummy_mongodb_database"
 
-mysql_username = "dummy_mysql_user"
-mysql_password = "dummy_mysql_password"
+mysql_username = "motion"
+mysql_password = "jenny"
 mysql_host = "dummy_mysql_host"
 mysql_port = 3306
 mysql_database = "dummy_mysql_database"
@@ -28,6 +29,8 @@ lQHYBF5f8UUBCADUj/wvqgY0Ij0X2oq3rFegUWNjUoU7i/7AJSxUo04ZgvjZq7/5
 ...
 """
 
-postgres_username = "dummy_postgres_user"
-postgres_password = "dummy_postgres_password"
-postgres_host =
+postgres_username = "motion"
+postgres_password = "jenny"
+postgres_host = "dummy_postgres_host"  # Replace with actual hostname
+postgres_port = 5432  # Example port, adjust as needed
+postgres_database = "dummy_postgres_database"
